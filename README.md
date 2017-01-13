@@ -7,7 +7,7 @@ Compile datasets of protein folding energies.
 
 Parse the raw text file from the [Protherm website](http://www.abren.net/protherm/).
 
-This is actually a lot of hassle, see: `notebooks/protherm.ipynb`.
+This is actually a lot of hassle, see: [protherm.ipynb](notebooks/protherm.ipynb).
 
 Validate the results against **Protherm*** and exclude mutations (~86) that are present in both but have different values (most of these are the same value with different sign :worried:).
 
