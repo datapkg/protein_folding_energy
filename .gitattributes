@@ -53,3 +53,13 @@ notebooks/mysqld/protein_folding_energy/taipale_tr_foldx.MYI filter=lfs diff=lfs
 notebooks/mysqld/protein_folding_energy/taipale_tr.frm filter=lfs diff=lfs merge=lfs -text
 notebooks/mysqld/protein_folding_energy/taipale_tr.MYD filter=lfs diff=lfs merge=lfs -text
 notebooks/mysqld/protein_folding_energy/taipale_tr.MYI filter=lfs diff=lfs merge=lfs -text
+notebooks/mysqld/aria_log.00000001 filter=lfs diff=lfs merge=lfs -text
+notebooks/mysqld/aria_log_control filter=lfs diff=lfs merge=lfs -text
+notebooks/mysqld/ibdata1 filter=lfs diff=lfs merge=lfs -text
+notebooks/mysqld/ib_logfile0 filter=lfs diff=lfs merge=lfs -text
+notebooks/mysqld/ib_logfile1 filter=lfs diff=lfs merge=lfs -text
+notebooks/mysqld/multi-master.info filter=lfs diff=lfs merge=lfs -text
+notebooks/mysqld/mysql filter=lfs diff=lfs merge=lfs -text
+notebooks/mysqld/performance_schema filter=lfs diff=lfs merge=lfs -text
+notebooks/mysqld/protein_folding_energy filter=lfs diff=lfs merge=lfs -text
+notebooks/mysqld/test filter=lfs diff=lfs merge=lfs -text
